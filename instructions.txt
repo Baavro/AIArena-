@@ -1,0 +1,14 @@
+To run the project follow the below steps-
+
+1. Open terminal.
+
+2. Run the requirements,txt to install all the dependencies:
+    command - "pip install -r requirements.txt" 
+    (run without quotes, for Windows and Linux)
+
+3. run the main.py file to execute the code:
+    command - "python main.py"
+    (run without quotes, for Windows and Linux)
+
+
+------------------------- THANK YOU ----------------------------
